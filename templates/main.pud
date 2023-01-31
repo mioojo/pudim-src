@@ -1,0 +1,5 @@
+require '~/.local/share/pudim/src/src.rb'
+## PRINT EXAMPLE
+putln("This is an example!");
+## SERVER EXAMPLE
+server("HELLO WORLD!!");
