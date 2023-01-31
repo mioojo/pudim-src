@@ -1,4 +1,5 @@
 require '~/.local/share/pudim/src/src.rb'
+require 'sinatra'
 ## PRINT EXAMPLE
 putln("This is an example!");
 ## SERVER EXAMPLE
